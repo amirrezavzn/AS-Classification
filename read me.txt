@@ -1,0 +1,1 @@
+to execute the code, please add "result.csv" and "20150801.as2types.txt" to the project and run the code!
